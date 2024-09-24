@@ -1,4 +1,5 @@
 # Caesar cipher - encrypting a message.
+
 text = input("Enter your message: ")
 cipher = ''
 for char in text:
